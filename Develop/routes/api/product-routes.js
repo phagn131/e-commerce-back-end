@@ -65,8 +65,7 @@ router.put('/:id', async (req, res) => {
     where: {
       id: req.params.id,
     },
-  }
-  );
+  })
     return res.json(productData)
   
   
