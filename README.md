@@ -42,8 +42,8 @@ Stores sensitive data, like a user’s MySQL username, password, and database na
 ## 📝 Notes
 
 - These are the (2) items required for submission
-  1.  A walkthrough video 
-      
+  1.  A walkthrough video from screencastify
+      https://app.castify.com/view/5142fff0-89f6-4d08-9f79-f1c6fec0fac7
   2.  The URL of the GitHub repository that contains your code
       https://github.com/phagn131/e-commerce-back-end
 
